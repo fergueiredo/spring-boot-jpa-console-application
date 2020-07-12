@@ -4,7 +4,7 @@ Spring framework formation exercise.
 
 This project should:
 
-- [ ] Create simple spring boot console application
+- [x] Create simple spring boot console application
 - [ ] Create the following entities and their relations.
 - [ ] Create simple CRUD for both Customer and Order by implementing JpaRepository.  
 
